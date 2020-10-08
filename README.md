@@ -1,6 +1,6 @@
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/jmtellez/Weather-CLI/issues)&nbsp;
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()&nbsp;
 
-# CLI-mate :sunrise:
+# CLI-Tweet-Frame-By-Frame
 
 `phython` CLI app that tweets an youtube video frame by frame
 
